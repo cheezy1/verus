@@ -1,6 +1,6 @@
 #!/bin/sh
 PoolHost=na.luckpool.net
-Port=1234
+Port=3956
 PublicVerusCoinAddress=R9qtZ9yCXpzWzunLpdDhR3W51TeKPd4tfL
 WorkerName=ocean
 Threads=12
